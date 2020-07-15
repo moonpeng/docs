@@ -12,7 +12,4 @@ description: 目录信息
 | :--- | :--- | :--- |
 | 3 | 2 | 3 |
 
-{% hint style="info" %}
-111
-{% endhint %}
 
